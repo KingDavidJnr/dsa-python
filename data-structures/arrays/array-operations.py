@@ -30,3 +30,5 @@ for element in array:
 # Update
 array[0] = 10
 print("\nAfter Update:", array)
+
+# Adding a comment after a while away from this repo Today 30/04/2024
